@@ -7,5 +7,4 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ## Tutorial Bookmarks  
 https://nextjs.org/learn/dashboard-app/  
 
-
-neon-rose-school
+[neon-rose-school](https://nextjs-dashboard-d8pggjnje-acatejrs-projects.vercel.app/)
